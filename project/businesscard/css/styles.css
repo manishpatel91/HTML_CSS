@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+    padding: 20px; 
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    text-align: center;
+    color: #2b2839;
+    border-bottom: 8px solid #d8cefe;
+    border-radius: 5px;
+}
+.image {
+    width: 150px;
+    border-radius: 100px;
+}
+.border-blue {
+    border: 1px dotted blue;
+}
