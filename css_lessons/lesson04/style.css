@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+}
+header {
+    width: 100%;
+}
+h1 {
+    border: 1px dashed red;
+    width: 50%;
+}
+p {
+    font-size: 2rem;
+}
+main {
+    width: 50vw;
+    background-color: skyblue;
+    font-size: 2rem;
+}
